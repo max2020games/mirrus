@@ -1,0 +1,179 @@
+--- Start ---
+
+1. Eductor 64 -> continue -> password -> ok -> 0210 -> ok -> Demographics
+
+--- Demographics ---
+
+1. Nuevo? -> Testee Name (MAYUSCULAS) -> sex -> SOC Calculate -> Patient Data - > ok -> New Patient -> ok -> Date of Birth -> Place of Birth -> Country 
+-> [Birth time and place menu] -> Birth time in nautical time [o] if unknow Birth time Calculate btn -> doble click en resultado para transferir a campo Birth Time
+-> [Geography menu] -> doble click lugar de nacimiento en el mapa -> ok -> Save current patient btn - > yes -> Close [btn] 
+
+1. Existente? Patient data load new or previous patientn-> ok -> Serch for previous patient [btn] -> nombre del paciente -> click en registro -> 
+previous patient [btn] -> yes -> yes -> Close [btn] -> No si aparece pregunta de bioritmos -> Calibration [btn]
+
+--- Calibration ---
+
+1. Terapia virtual? -> Virtual all [btn] (para cancelar virtual Electrical Test Reset [btn]) ->
+2. Search and clear field anomalies [btn] -> Computer Risk Field Neutralization -> Check Room for Geophatic Stress [btn] -> Esperar hasta que desaparezca
+mensaje SCIO IS WORKING...
+3. Si mensaje NO MAJOR GEOPATHIC STRESS DETECTED -> Close [btn];
+4. Si mensaje GEOPHATIC STRESS DETECTED IN THE ROOM - > Clean work place [btn];
+5. Fast track calibration program [btn] -> Esperar porcentaje de exito (mínimo 90%) -> si no da 90% -> Adjust calibration [btn] hasta que de el porcentaje.
+6. OK -> Yes
+
+--- Home ---
+
+1. Sesion automática? Superconscious choice [btn] -> llenar minutos hasta cubrir tiempo de sesion -> FIN (los cuadros de minutos se borran dando click en la opción)
+2. No es sesión automatica? -> Close [btn]
+3. Test [btn]
+
+--- Test ---
+
+1. Close [btn] (Disclaimer) -> Close [btn] -> Prepare [btn] -> TEST [btn] hasta que aparce nueva pantalla -> esperar a que termine el test -> aparece pantalla BIG
+
+--- Big ---
+
+1. Device Validation [menu] -> Start measure [btn] -> minimizar ventana (se vuelve icono de barritas )
+2. Biofeedback Device [menu] -> Device 3D Body Viewer Activate -> minimizar
+3. Biofeedback Device [menu] -> Iridiology -> minimizar
+4. Desease Probability and Dictionary -> Desease Dictionary (Library)
+
+--- Body Viewer ---
+
+1. SCIO Therapy -> Aura Cleanse -> Screenshot de pantalla resultante
+2. Reacomodar pantalla para ocultar títulos de abajo
+3. Scio Therapy [menu] -> Scio Therapy -> Aura Cleanse
+4. Program Start [Menu] -> Load Unconsious Choices 
+5. Program Start [menu] -> Load individual Movie Program
+6. Program Start [menu] -> Treat Desease Path of All Trauma
+6. Program Start [menu] -> Show Affirmations
+7. Program Start [menu] -> Show Desease States
+8. Minimizar Body Viewer
+
+--- Iridiology ---
+
+1. Anatomy [menu] -> Auto Search [btn] (barra izaq en medio) -> doble click en imagen -> Activate Piggy Back [btn] (top right)
+2. Facial + Eye + Guns Diagnostics [menu] - > Auto Search [btn] -> Auto Piggy Back 
+3. Eye Diagnostic + Rx [menu] - > Eye Anatomy (option) -> Active Piggy Back [btn]
+4. Misc Rx [menu] -> Heart (option) -> Activate Piggy Back [btn]
+5. Ear + etc [menu] -> Kidney -> Activate Piggy Back [btn]
+6. Iridiology [menu] -> Iridiology Choice Visible [btn] (top left) -> Lymph 1 bmp (barra lat izq abajo)
+7. Doble click en algún organo -> Activate Piggy Back
+8. Dental Foci [menu] -> Acuman jpg (barra iza arriba) -> doble click en la cabeza -> Activate Piggyback [btn]
+9. Quadrant Repair [menu] -> Doble click a la mitad de la imagen para activar circulo rojo - > Activar todos los cuadros azules de la izquierda -> Activate Piggyback
+10. Info [menu] - > Probable Medical History [btn] (top left) -> Activate Piggyback
+11. Minimizar Iridiology
+
+--- Desease Dictionary ---
+
+1. Unconscious Choice [btn] (bottom right) -> Electroacupuncture Bioresonance [option] (Cuadro amarillo) -> OK Reveal Text [btn]
+2. Polarity Negative [option] (bottom left) -> If Checked Mute Dictionary Music [option] -> Quick Calibrate Patient's Reactivity [btn] -> Esperar
+3. Al desaparecer cuadro rojo (ya terminó) -> Therapy [menu] -> Quick Test Patient Bioresonance -> Esperar a que desaparezca cuadro rojo
+4. Auto Treat [btn] (bottom center] -> esperar a que aparezcan 4 barritas azules -> minimizar 
+
+--- Matriz ---
+
+1. System Power settings [menu] -> Max -> ok -> ok
+2. System Power settings [menu] -> Activate Quantum Indeterminancy field
+3. System Power settings [menu] -> Activate positive consciousness field
+4. System Power settings [menu] -> Intensify Quantum Indeterminancy field. Repetir este paso hasta que campo QIF (lado derecho) sea igual a 70 (a 50 en presenciales)
+5. System Power settings [menu] -> Activate Point probe
+6. System Power settings [menu] -> Activate Virtual (solo virtuales) (e
+7. System Power settings [menu] -> Shield from remote viewing or interference
+8. Auto Focus Bio-Resonance Zap -> Auto zap infection General - all top patogens (12 minutes) -> Esperar 12 minutos, al terminar matriz cambia a color azul
+9. Campo Shaping (lado derecho) dice EXCELLENT? -> se termina el paso
+10. Campo Shaping (lado derecho)  NO dice EXCELLENT -> REPETIR PASO 8.
+11. Program [menu] -> Biofeedback Systemic Relaxation -> Biofeedback Systemic Relaxation 
+
+--- Biofeedback Systemic Relaxation ---
+
+1. Biofeedback [menu] -> Magnetic Polarity Balance, treat geo stress -> ok. Campo Rectification en mensaje SCIO IS WORKING debe dar 100 (esperar hasta que ocurra)
+2. Stop BSR Therapy [btn] -> Close [btn]
+3. Biofeedback [menu] -> Body to soul connection -> OK. Campo Rectification en mensaje SCIO IS WORKING debe dar 100 (esperar hasta que ocurra).
+4. Stop BSR Therapy [btn] -> Close [btn]
+5. Relaxation [menu] -> Reprogram Karma -> OK. Campo Rectification en mensaje SCIO IS WORKING debe dar 100 (esperar hasta que ocurra).
+6. Stop BSR Therapy [btn] -> Close [btn]
+7. Close [menu]
+
+--- Matriz ---
+
+1. Program [menu] -> Body scan and face therapy -> Scan all [btn] -> esperar a que termina pantalla SCIO is WORKING
+
+--- Body scan and face therapy ---
+
+2. Aura Cleanse Notions [btn] -> Treat Foci [btn] (oprimir hasta que desaparezcan circulos rojo y morado)
+3. Front [menu]. Si hay circulos de cualquier color -> Treat Foci [btn] hasta que desaparezcan
+4. Side Left [Menu]. Si hay circulos de cualquier color -> Treat Foci [btn] hasta que desaparezcan.
+5. Side Right [Menu]. Si hay circulos de cualquier color -> Treat Foci [btn] hasta que desaparezcan.
+6. Back [Menu]. Si hay circulos de cualquier color -> Treat Foci [btn] hasta que desaparezcan.
+7. Aura -> Cybernetic Correction [btn] (abajo) -> ok
+8. Retest [btn] (abajo) -> ok. Repetir hasta que aparezca un circulo arriba y un circulo abajo de la figura y el ovalo cambie de color.
+9. SCIO AFE treatment of psychic disturbance [btn] (derecha) -> Ok -> Ok
+
+--- Psychic Stabilize ---
+
+1. Start Psychic Stabilize [btn] (abajo). Campo Rectification en ventana Psychic Stabilize debe dar 100 (esperar hasta que ocurra).
+2. End Psychic Stabilize [btn] (abajo) -> Close [btn]
+
+--- Body scan and face therapy ---
+
+1. Skin Rejuvenation [btn] (arriba derecha)
+2. Devine Light to pineal gland [btn] (en medio a la derecha) -> ok. Repetir hasta que campo Shaping (amarillo top right) diga EXCELLENT
+3. Harmonize to divine light [btn] (abajo del anterior) -> ok. Repetir hasta que campo Shaping (amarillo top right) diga EXCELLENT
+4. Fix Vanity with acceptance [btn] (abajo del anterior) -> ok. Repetir hasta que campo Shaping (amarillo top right) diga EXCELLENT
+5. Close [btn]
+
+--- Matriz ---
+
+Antes de empezar preguntar indicaciones especiales para el risk. Si no las hay trabajar con los siguientes pasos: 
+
+1. Program [menu] -> Risks Profile -> By Value [btn] (centro a la mitad)
+2. Doble click al valor mas alto de la lista de la izquierda 
+3. Therapy [btn]
+
+--- Universal Therapy ---
+
+1. Activate Frecuency Modulation Program [btn] (abajo) -> navagar con flechas (top right) hasta opción Subspace Morphic Tras -> click -> Start [btn] -> ok -> esperar a que termine
+2. Doble click en alguna parte de la zona amarilla
+3. Estan todas las opciones de la zona amarilla en gris? -> Close [btn] -> YES -> Termina proceso
+4. Seleccionar las opciones que aparecen en negro (desde abajo hacia arriba) -> Start [btn]
+5. Repetir desde el paso 2 hasta que todas las opciones queden en gris
+6. Buscar las sugerencias que aparecen en amarillo y rosa (top left)
+7. Click en botón del menú segun las sugerencias y oprimir Start_____Therapy [btn] de la pantalla que aparece. Esperar a que termine.
+8. Click en cada opción con letras negras hasta que todas sean grises o digan corrected
+9. Click Retest [btn] (bottom left)
+10. Screenshot del resultado -> Close [btn]
+11. Close [btn] (pantalla meridianos)
+12. Auto Freq Therapy [btn] -> Start [btn] -> esperar a que termine.
+13. Click en todas las opciones que tengan letras en negro. Si dice can Not fix, continuar con las demás opciones y después regresar a revisarlas
+14. Retest Treat All [option] (bottom right) y esperar a que termine. Screenshot de pantalla resultante.
+15. Click nuevamente en cada una de las opciones en letras negras (parte superior) -> Close Autofreq [btn] (bottom right)
+16 Click Expand [btn] (esquina inferior izq) cambia a Energetic Link y dar click de nuevo.
+17. En la plantalla llenar el campo Set Time (Top Left) con 1 -> Activate Spiritual Healing [btn] (abajo de ese campo) -> ok. Esperar a que termine.
+18. Dar click en Activate Spiritual Healing [btn] hasta que el indicador (top middle) marque 100% -> Minimize [option] (Top left corner).
+19. Auto Color Therapy [btn] -> Start Color Therapy [btn]. Esperar a que se detenga en un color.
+20. Scalar [btn] -> Long Term Therapy (amarillo top middle)
+21. Abrir archivo de frecuencias de desapego con el block de notas.
+22. Copiar todas las frecuencias bajo SCALAR y pegar en campo rosa Add Piggy Back (limpiarlo antes) -> Treat All [btn] (top) -> Esperar (15 a 30 min) 
+23. Pasados los 15-30 minutos -> Close [btn] -> Close [btn] -> Close Color Therapy [btn]
+24. Campo Timer in Min 5 max (top left) -> 5 
+25. Cuadro Rite Generator (abajo del anterior) -> Upper Freq -> 5000 -> Lower Freq -> 5000
+26. Cuadro Scalar Generator (derecha del anterior) -> Upper Freq -> 2400000 -> Lower Freq -> 2400000
+26. Cuadro Bioresonance Bicom (derecha del anterior) -> Amplify in Db -> 33 -> Set Program -> 120 -> Intermitent -> Start[btn] (top left)
+29. Close [btn] para cerrar Universal Therapy
+
+--- Risks profile ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
