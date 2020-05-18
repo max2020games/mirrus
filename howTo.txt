@@ -18,13 +18,13 @@ previous patient [btn] -> yes -> yes -> Close [btn] -> No si aparece pregunta de
 mensaje SCIO IS WORKING...
 3. Si mensaje NO MAJOR GEOPATHIC STRESS DETECTED -> Close [btn];
 4. Si mensaje GEOPHATIC STRESS DETECTED IN THE ROOM - > Clean work place [btn];
-5. Fast track calibration program [btn] -> Esperar porcentaje de exito (mínimo 90%) -> si no da 90% -> Adjust calibration [btn] hasta que de el porcentaje.
+5. Fast track calibration program [btn] -> Esperar porcentaje de exito (mÃ­nimo 90%) -> si no da 90% -> Adjust calibration [btn] hasta que de el porcentaje.
 6. OK -> Yes
 
 --- Home ---
 
-1. Sesion automática? Superconscious choice [btn] -> llenar minutos hasta cubrir tiempo de sesion -> FIN (los cuadros de minutos se borran dando click en la opción)
-2. No es sesión automatica? -> Close [btn]
+1. Sesion automÃ¡tica? Superconscious choice [btn] -> llenar minutos hasta cubrir tiempo de sesion -> FIN (los cuadros de minutos se borran dando click en la opciÃ³n)
+2. No es sesiÃ³n automatica? -> Close [btn]
 3. Test [btn]
 
 --- Test ---
@@ -41,7 +41,7 @@ mensaje SCIO IS WORKING...
 --- Body Viewer ---
 
 1. SCIO Therapy -> Aura Cleanse -> Screenshot de pantalla resultante
-2. Reacomodar pantalla para ocultar títulos de abajo
+2. Reacomodar pantalla para ocultar tÃ­tulos de abajo
 3. Scio Therapy [menu] -> Scio Therapy -> Aura Cleanse
 4. Program Start [Menu] -> Load Unconsious Choices 
 5. Program Start [menu] -> Load individual Movie Program
@@ -58,7 +58,7 @@ mensaje SCIO IS WORKING...
 4. Misc Rx [menu] -> Heart (option) -> Activate Piggy Back [btn]
 5. Ear + etc [menu] -> Kidney -> Activate Piggy Back [btn]
 6. Iridiology [menu] -> Iridiology Choice Visible [btn] (top left) -> Lymph 1 bmp (barra lat izq abajo)
-7. Doble click en algún organo -> Activate Piggy Back
+7. Doble click en algÃºn organo -> Activate Piggy Back
 8. Dental Foci [menu] -> Acuman jpg (barra iza arriba) -> doble click en la cabeza -> Activate Piggyback [btn]
 9. Quadrant Repair [menu] -> Doble click a la mitad de la imagen para activar circulo rojo - > Activar todos los cuadros azules de la izquierda -> Activate Piggyback
 10. Info [menu] - > Probable Medical History [btn] (top left) -> Activate Piggyback
@@ -68,7 +68,7 @@ mensaje SCIO IS WORKING...
 
 1. Unconscious Choice [btn] (bottom right) -> Electroacupuncture Bioresonance [option] (Cuadro amarillo) -> OK Reveal Text [btn]
 2. Polarity Negative [option] (bottom left) -> If Checked Mute Dictionary Music [option] -> Quick Calibrate Patient's Reactivity [btn] -> Esperar
-3. Al desaparecer cuadro rojo (ya terminó) -> Therapy [menu] -> Quick Test Patient Bioresonance -> Esperar a que desaparezca cuadro rojo
+3. Al desaparecer cuadro rojo (ya terminÃ³) -> Therapy [menu] -> Quick Test Patient Bioresonance -> Esperar a que desaparezca cuadro rojo
 4. Auto Treat [btn] (bottom center] -> esperar a que aparezcan 4 barritas azules -> minimizar 
 
 --- Matriz ---
@@ -133,19 +133,19 @@ Antes de empezar preguntar indicaciones especiales para el risk. Si no las hay t
 
 --- Universal Therapy ---
 
-1. Activate Frecuency Modulation Program [btn] (abajo) -> navagar con flechas (top right) hasta opción Subspace Morphic Tras -> click -> Start [btn] -> ok -> esperar a que termine
+1. Activate Frecuency Modulation Program [btn] (abajo) -> navagar con flechas (top right) hasta opciÃ³n Subspace Morphic Tras -> click -> Start [btn] -> ok -> esperar a que termine
 2. Doble click en alguna parte de la zona amarilla
 3. Estan todas las opciones de la zona amarilla en gris? -> Close [btn] -> YES -> Termina proceso
 4. Seleccionar las opciones que aparecen en negro (desde abajo hacia arriba) -> Start [btn]
 5. Repetir desde el paso 2 hasta que todas las opciones queden en gris
 6. Buscar las sugerencias que aparecen en amarillo y rosa (top left)
-7. Click en botón del menú segun las sugerencias y oprimir Start_____Therapy [btn] de la pantalla que aparece. Esperar a que termine.
-8. Click en cada opción con letras negras hasta que todas sean grises o digan corrected
+7. Click en botÃ³n del menÃº segun las sugerencias y oprimir Start_____Therapy [btn] de la pantalla que aparece. Esperar a que termine.
+8. Click en cada opciÃ³n con letras negras hasta que todas sean grises o digan corrected
 9. Click Retest [btn] (bottom left)
 10. Screenshot del resultado -> Close [btn]
 11. Close [btn] (pantalla meridianos)
 12. Auto Freq Therapy [btn] -> Start [btn] -> esperar a que termine.
-13. Click en todas las opciones que tengan letras en negro. Si dice can Not fix, continuar con las demás opciones y después regresar a revisarlas
+13. Click en todas las opciones que tengan letras en negro. Si dice can Not fix, continuar con las demÃ¡s opciones y despuÃ©s regresar a revisarlas
 14. Retest Treat All [option] (bottom right) y esperar a que termine. Screenshot de pantalla resultante.
 15. Click nuevamente en cada una de las opciones en letras negras (parte superior) -> Close Autofreq [btn] (bottom right)
 16 Click Expand [btn] (esquina inferior izq) cambia a Energetic Link y dar click de nuevo.
@@ -159,11 +159,95 @@ Antes de empezar preguntar indicaciones especiales para el risk. Si no las hay t
 24. Campo Timer in Min 5 max (top left) -> 5 
 25. Cuadro Rite Generator (abajo del anterior) -> Upper Freq -> 5000 -> Lower Freq -> 5000
 26. Cuadro Scalar Generator (derecha del anterior) -> Upper Freq -> 2400000 -> Lower Freq -> 2400000
-26. Cuadro Bioresonance Bicom (derecha del anterior) -> Amplify in Db -> 33 -> Set Program -> 120 -> Intermitent -> Start[btn] (top left)
+26. Cuadro Bioresonance Bicom (derecha del anterior) -> Amplify in Db -> 33 -> Set Program -> 120 -> Intermitent -> Start[btn] (top left) -> esperar a que termine
 29. Close [btn] para cerrar Universal Therapy
 
 --- Risks profile ---
 
+1. Virtual Doctor Screnn [btn] -> screenshot de la pantalla resultante -> Treat all on Panel [btn] -> esperar a que termine
+2. Lock for Connection to Spine [btn] -> Lymph [btn] (bottom left) -> copiar del block de notas valores de ALGORITMO DETOX GRAL
+3. Pegar los valores en campo Type in Sarcode (morado de hasta abajo) -> click en cualquier linea de la lista gris (top left)
+4. Subir hasta localizar KIDNEY -> Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+5. Checar con Miriam tiempo para el campo Set time in minutes, si no hay indicaciones, dejar en cero
+6. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+7. Close [btn]
+8. Lymph [btn] (bottom left) -> click en cualquier linea de la lista gris (top left) -> buscar BLADDER en la lista (haci abajo)
+9. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+10. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+11. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+12. Close [btn]
+13. Lymph [btn] (bottom left) -> click en cualquier linea de la lista gris (top left) -> buscar PROSTATE en la lista (hacia abajo). Si es mujer saltar al paso 18
+14. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+15. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+16. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+17. Close [btn]
+18. Lymph [btn] (bottom left) -> click DERECHO en cualquier linea de la lista gris -> Serch Item [btn] -> buscar URET en el cuadro de diÃ¡logo, debe dar linea que dice URETHRA 
+19. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+20. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+21. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+22. Close [btn]
+23. Lymph [btn] (bottom left) -> click DERECHO en cualquier linea de la lista gris -> Serch Item [btn] -> buscar URET en el cuadro de diÃ¡logo, debe dar linea que dice URETHRA
+24. Click dos lineas abajo en URETHRITIS
+25. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+26. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+27. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+28. Close [btn]
+29. Lymph [btn] (bottom left) -> click DERECHO en cualquier linea de la lista gris -> Serch Item [btn] -> buscar GLOMERU en el cuadro de diÃ¡logo.
+30. Click en linea que dice GLOMERULONEPHRITIS
+31. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+32. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+33. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+34. Close [btn]
+35. Lymph [btn] (bottom left) -> click en cualquier linea de la lista -> buscar ADRENAL (hacia arriba)
+36. Treat LYMPH DRAINAGE FOR (option, left middle) -> Seleccionar de abajo todas las opciones  que no tienen check mark
+37. Checar con Miriam tiempo para el campo Set time in minutes si no hay indicaciones dejar en cero (darÃ¡ un minuto)
+38. Start Treatment [btn] -> esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+39. Close [btn]
+40. Digestion [btn] (a un lado de Lymph) -> click en la linea que dice LIVER -> Treat area (option)
+41. Seleccionar de abajo todas las opciones  que no tienen check mark -> Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+42. Close [btn]
+43. Digestion [btn]-> click DERECHO en cualquier linea de la lista gris -> Serch Item [btn] -> buscar GALLB en el cuadro de diÃ¡logo. 
+44. Aparece linea que dice GALLBLADDER -> Treat Area [option] -> Seleccionar de abajo todas las opciones  que no tienen check mark
+45. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+46. Close [btn]
+47. Circulation [btn] -> NO -> Heart [option] -> Seleccionar todas las cajitas que no tienen check mark (las de la izquierda y las dos de enmedio)
+48. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+49. Circulation [btn] -> NO -> Head + Neck [option] -> Seleccionar todas las cajitas que no tienen check mark (las de la izquierda y las dos de enmedio)
+50. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+51. Circulation [btn] -> NO -> Upper Torso[option] -> Seleccionar todas las cajitas que no tienen check mark (las de la izquierda y las dos de enmedio)
+52. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+53. Digestion [btn] (a un lado de Lymph) -> click en la linea que dice SMALL INTESTINE -> Treat area (option)
+54. Seleccionar de abajo todas las opciones  que no tienen check mark -> Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+55. Close [btn]
+56. Digestion [btn] (a un lado de Lymph) -> click en la linea que dice STOMACH -> Treat area (option)
+57. Seleccionar de abajo todas las opciones  que no tienen check mark -> Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+58. Close [btn]
+59. Digestion [btn] (a un lado de Lymph) -> click en la linea que dice PANCREAS -> Treat area (option)
+60. Seleccionar de abajo todas las opciones  que no tienen check mark -> Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+61. Close [btn]
+62. Digestion [btn] (a un lado de Lymph) -> click en la linea que dice LARGE INTESTINE -> Treat area (option)
+63. Seleccionar de abajo todas las opciones  que no tienen check mark -> Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+64. Close [btn]
+65. Lymph [btn] -> Seleccionar de la lista LUNG -> Treat Lymph Drainage FOR [option] -> prender todas las casillas que no tienen check mark
+66. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+67. Close [btn]
+68. Lymph [btn] -> Seleccionar de la lista SPLEEN -> Treat Lymph Drainage FOR [option] -> prender todas las casillas que no tienen check mark
+69. Start Treatment [btn] -> Esperar a que termine -> ok. Repetir este paso hasta que el campo Rectified (en rojo) diga como minimo 90
+70. Close [btn]
+71. Neura Emotional Complex NEC [btn] -> Test + Treat Emotions with phase stabilization [btn] -> Esperar a que termine
+72. Copiar del block de notas valores de la linea que dice ALGORITMO DETOX GRAL y pegarlos en el campo que dice Enter Substance (a la derecha enmedio)
+73. Test + Treat Emotions with phase stabilization [btn] -> Esperar a que termine
+74. Chechar que todas las opciones del lado izquierdo digan Corrected.
+75. Si hay alguna que no diga Corrected -> Test + Treat Emotions with phase stabilization [btn] -> Esperar a que termine
+76. Close [btn] que estÃ¡ en la parte amarilla de la pantalla.
+77. Close Espinal [btn]
+78. Close [btn] en pantalla roja
+79. Close [btn] en la pantalla azul de Risk
+
+--- Matriz ---
+1. Information [menu] -> Load Chartmaker Color report -> Ok -> Load Charts [menu] -> Load Probable Medical Diagnostic 
+2. Hacer copy-paste de todo el texto en un archivo nuevo de block de notas y guardarlo con el nombre del paciente (aparece hasta arriba de la pantalla)
+3. Close [btn] hatsa abajo de la pantalla
 
 
 
@@ -171,9 +255,3 @@ Antes de empezar preguntar indicaciones especiales para el risk. Si no las hay t
 
 
 
-
-
-
-
-
- 
